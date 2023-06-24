@@ -1,2 +1,2 @@
-# html-portofolio
+# html-portfolio
 First repository ever
